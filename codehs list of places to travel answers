@@ -1,0 +1,4 @@
+function start(){
+    var travelList = ["Simran's house","McDonalds","England","VidCon California","India"];
+    println(travelList[2]);
+}
